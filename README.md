@@ -1,4 +1,4 @@
-````md
+
 # COVID-19 Tracker App 🦠📊
 
 A beginner-friendly Flutter application that displays worldwide and country-wise COVID-19 statistics using public APIs.
