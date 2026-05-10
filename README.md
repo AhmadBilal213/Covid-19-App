@@ -4,6 +4,7 @@
 A beginner-friendly Flutter application that displays worldwide and country-wise COVID-19 statistics using public APIs.
 
 This project was created for learning and practice purposes while exploring Flutter development, API integration, animations, navigation, and UI design.
+
 ---
 
 ## ✨ Features
